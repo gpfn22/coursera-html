@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+    <title> Mod2 Project</title>
+      <link rel="stylesheet" href="css/projmod2.css">
+  </head>
+  <body>
+  <h1>
+  Best Boxes Ever!
+  </h1>
+    <div id=p1>
+    <h2 class= "red">
+    First box
+    </h2>
+      <p > Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime ipsum natus, quaerat ex distinctio ut laudantium illo nostrum praesentium explicabo atque, quas possimus quod neque, culpa nulla recusandae dignissimos ipsa. </p>
+    </div>
+    <div id=p2>
+    <h2 class= "pink">
+    Second box
+    </h2>
+      <p > Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime ipsum natus, quaerat ex distinctio ut laudantium illo nostrum praesentium explicabo atque, quas possimus quod neque, culpa nulla recusandae dignissimos ipsa. </p>
+    </div>
+    <div id=p3>
+    <h2 class="blue">
+    Third box
+    </h2>
+      <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime ipsum natus, quaerat ex distinctio ut laudantium illo nostrum praesentium explicabo atque, quas possimus quod neque, culpa nulla recusandae dignissimos ipsa. </p>
+    </div>
+  </body>
+
+</html>
