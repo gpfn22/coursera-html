@@ -1,12 +1,11 @@
 * {
   box-sizing: border-box;
   margin: 0;
-  padding: 0;
+  padding: 0px;
 }
 
 body {
   background-color: white;
-
   font-family: Helvetica, Arial, sans-serif;
 }
 
@@ -27,8 +26,9 @@ h2 {
 }
 
 p {
-  width: 90%;
-  height: 150px margin-right: auto;
+
+  width: 100%;
+  margin-right: auto;
   margin-left: auto;
   clear: right;
 }
@@ -36,12 +36,10 @@ p {
 div {
   border: 1px solid black;
   margin-bottom: 15px;
-  margin: 15px;
+  margin: 10px;
   background-color: lightgray;
 
-
 }
-
 
 
 #p1 {
@@ -106,11 +104,11 @@ div {
   }
 
   .col-lg-4 {
-    width: 33.33%;
+    width: 31.20%;
   }
 
   .col-lg-5 {
-    width: 41.66%;
+    width: 41.30%;
   }
 
   .col-lg-6 {
@@ -178,7 +176,7 @@ div {
   }
 
   .col-md-5 {
-    width: 41.66%;
+    width: 47.35%;
   }
 
   .col-md-6 {
